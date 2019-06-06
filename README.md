@@ -7,6 +7,12 @@
 3. 热更新
 4. 使用postcss，进行代码压缩，浏览器自定义后缀补全
 
+**使用：**
+1. npm install (安装依赖包)
+2. npm start (开发)
+3. npm run build （构建）
+
+
 **参考：**  
 https://webpack.docschina.org/ webpack 中文文档
 
