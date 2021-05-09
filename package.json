@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "cssnano": "^4.1.10",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "postcss-aspect-ratio-mini": "^1.0.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-write-svg": "^3.0.1"
